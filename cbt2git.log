@@ -1,0 +1,7 @@
+2023-08-06 02:01:14.187421 - Initialized conversion of CBT170
+2023-08-06 02:01:14.222957 - Received CBT.V505.FILE170.PDS from FILE170.XMI 
+2023-08-06 02:01:14.226060 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE170.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:01:14.227111 - Found @FILE170.txt (text/plain) in CBT.V505.FILE170.PDS, moved to PDS/@FILE170
+2023-08-06 02:01:14.228078 - Found DUMPCSA.jcl (text/plain) in CBT.V505.FILE170.PDS, moved to PDS/DUMPCSA
+2023-08-06 02:01:14.229216 - Found USERS.txt (text/plain) in CBT.V505.FILE170.PDS, moved to PDS/USERS
+2023-08-06 02:01:14.230219 - Found USERS$.jcl (text/plain) in CBT.V505.FILE170.PDS, moved to PDS/USERS$
