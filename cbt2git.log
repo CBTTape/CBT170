@@ -1,0 +1,6 @@
+2025-04-13 14:27:54.258496 - Received CBT.V505.FILE170.PDS from FILE170.XMI 
+2025-04-13 14:27:54.259201 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE170.PDS, moved to PDS/$$$#DATE
+2025-04-13 14:27:54.259276 - Found @FILE170.txt (text/plain) in CBT.V505.FILE170.PDS, moved to PDS/@FILE170
+2025-04-13 14:27:54.259344 - Found DUMPCSA.jcl (text/plain) in CBT.V505.FILE170.PDS, moved to PDS/DUMPCSA
+2025-04-13 14:27:54.259415 - Found USERS.txt (text/plain) in CBT.V505.FILE170.PDS, moved to PDS/USERS
+2025-04-13 14:27:54.259473 - Found USERS$.jcl (text/plain) in CBT.V505.FILE170.PDS, moved to PDS/USERS$
